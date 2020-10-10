@@ -1,0 +1,83 @@
+.Headof{
+     font-size: 70px;
+     margin-left: 325px;
+     font-family: 'Montserrat', sans-serif;
+     margin-top: 0px;
+     
+}
+.Quote{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 500px;
+    font-size: 50px;
+}
+.Image{
+    height: 500px;
+    width: 600px;
+    margin-left: 150px;
+}
+.Green{
+    height: 490px;
+    width: 600px;
+    margin-right: 100px;
+    margin-bottom: 8px;
+}
+.UTAS{
+    font-size: 40px;   
+    margin-left: 300px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: -50px;
+    
+}
+.Text{
+    font-size: 40px;
+    margin-left: 900px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: -80px;
+    
+}
+.Des{
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.Index{
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+}
+.Display{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+
+}
+.displaydes{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;  
+}
+.Processor{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+.processdes{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+.Games{
+    height: 600px;
+    width: 750px;
+    margin-bottom: 40px;
+    margin-left: 385px;
+    border: ;
+}
+.Intel{
+    height: 600px;
+    widows: 1000px;
+    margin-left: 200px;
+    border: black;
+    border-style: ridge;
+    border-width: 15px;
+}
+.India{
+    font-family: 'Montserrat', sans-serif;
+}
+.Common{
+    font-family: 'Montserrat', sans-serif;
+}
